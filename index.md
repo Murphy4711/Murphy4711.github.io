@@ -13,3 +13,6 @@ Tatsächlich passiert
 > Ende 2008 verschickte die US Army versehentlich an einige Familien der im Irakkrieg gefallenen Soldaten Briefe,
 > die mit „Dear John Doe“ begannen. Als Grund nannte die Army einen Software-Fehler bei dem Unternehmen,
 > das die Schreiben anfertigte.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Contact-new.svg/1024px-Contact-new.svg.png"/>
+
